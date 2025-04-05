@@ -1,0 +1,54 @@
+!DOCTYPE html
+html lang=pt-BR
+head
+    meta charset=UTF-8
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    titleSociólogos Notáveistitle
+    style
+        body {
+            font-family Arial, sans-serif;
+            margin 20px;
+            padding 20px;
+            background-color #f4f4f4;
+        }
+        .container {
+            max-width 800px;
+            margin auto;
+            background white;
+            padding 20px;
+            border-radius 10px;
+            box-shadow 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align center;
+        }
+        ul {
+            list-style-type none;
+            padding 0;
+        }
+        li {
+            background #ddd;
+            margin 5px 0;
+            padding 10px;
+            border-radius 5px;
+        }
+    style
+head
+body
+    div class=container
+        h1Sociólogos Notáveish1
+        ul
+            liAuguste Comte (1798-1857) - Pai do positivismoli
+            liÉmile Durkheim (1858-1917) - Fundador da sociologia modernali
+            liKarl Marx (1818-1883) - Teoria do materialismo históricoli
+            liMax Weber (1864-1920) - Sociologia compreensivali
+            liGeorg Simmel (1858-1918) - Sociologia formalli
+            liAntonio Gramsci (1891-1937) - Teoria da hegemonia culturalli
+            liMichel Foucault (1926-1984) - Poder e discursoli
+            liJürgen Habermas (1929-) - Teoria da ação comunicativali
+            liZygmunt Bauman (1925-2017) - Modernidade líquidali
+            liPierre Bourdieu (1930-2002) - Capital simbólicoli
+        ul
+    div
+body
+html
